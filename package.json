@@ -8,7 +8,7 @@
     "zone.js": "0.8.26",
     "hammerjs": "2.0.8",
     "@angular/cdk": "6.4.0",
-    "@angular/core": "6.0.0",
+    "@angular/core": "10.2.5",
     "ngx-datatable": "1.0.3",
     "@angular/forms": "6.0.0",
     "@angular/common": "6.0.0",
